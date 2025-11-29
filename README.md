@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi! I’m **Mahsa Nadafi (@MahsaNadafi)**, a researcher and AI engineer working at the intersection of **medical imaging, generative AI, and autonomous driving perception**.
+Hi! I’m **Mahsa Nadafi**, a researcher and AI engineer working at the intersection of **medical imaging, generative AI, and autonomous driving perception**.
 
 ## 🌟 About Me
 
