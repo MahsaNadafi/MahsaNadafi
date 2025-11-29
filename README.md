@@ -2,6 +2,10 @@
 
 Hi! I’m **Mahsa Nadafi**, a researcher and AI engineer working at the intersection of **medical imaging, generative AI, and autonomous driving perception**.
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MahsaNadafi&style=for-the-badge">
+</a>
+
 ## 🌟 About Me
 
 🎓 **M.Sc. in Biomedical Engineering (Bioelectric)**  *University of Tehran*
