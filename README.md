@@ -25,8 +25,8 @@ Hi! I’m **Mahsa Nadafi**, a researcher and AI engineer working at the intersec
 
 📫 **Contact**  
 **Email:** mahsanadafi6@gmail.com, mahsa.nadafi@ut.ac.ir  
-**LinkedIn:** [Mahsa Nadaf](https://www.linkedin.com/in/mahsa-nadafi-b8909b1ab/)
-**Google Scholar:** [Mahsa Nadaf]([https://www.linkedin.com/in/mahsa-nadafi-b8909b1ab/](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Mahsa+Nadafi+Ghahnavieh#))
+**LinkedIn:** [Mahsa Nadafi](https://www.linkedin.com/in/mahsa-nadafi-b8909b1ab/)
+**Google Scholar:** [Mahsa Nadafi](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Mahsa+Nadafi+Ghahnavieh#)
 
 ## 🔧 Languages & Tools
 ### 🧠 Programming & Machine Learning  
@@ -60,6 +60,5 @@ Hi! I’m **Mahsa Nadafi**, a researcher and AI engineer working at the intersec
 ## ✨ Fun Facts  
 - I enjoy experimenting with new generative AI architectures.  
 - I love building complete pipelines from **dataset → training → ONNX → deployment**.  
----
 
 *Thanks for visiting! Feel free to star ⭐ my repositories or reach out for collaboration!*
