@@ -20,7 +20,8 @@ My work is centered on:
 **AI Algorithm Engineer at [Software-Motion](https://www.sw-motion.cn/)**  
 - ONNX deployment 
 - Multi-camera perception pipelines  
-- nuScenes/Waymo/KITTI converters & calibration debugging  
+- nuScenes/Waymo/KITTI converters & calibration debugging
+
 **Graduate Researcher**  
 - **CT Super-Resolution with Arbitrary-Scale Diffusion Models** *(Published at IEEE ICEE 2025)*  
 - **Limited-Angle CT reconstruction with generative priors**  
